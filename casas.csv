@@ -1,0 +1,648 @@
+Baños,Dormitorios,Garajes,M² edificados,Tipo de Propiedad,Zona,Estado,Monto
+3.0,4.0,2.0,180.0,Casa,Puerto Buceo,Excelente estado,94000.0
+1.0,1.0,1.0,45.0,Apartamento,Pocitos,Excelente estado,32000.0
+2.0,2.0,1.0,73.0,Apartamento,Barra de Carrasco,Buen estado,68000.0
+2.0,3.0,0.0,75.0,Apartamento,Pocitos,Buen estado,39000.0
+2.0,3.0,1.0,111.0,Apartamento,Cordón,Buen estado,35000.0
+3.0,3.0,0.0,190.0,Apartamento,Carrasco,Excelente estado,116000.0
+1.0,1.0,0.0,41.0,Apartamento,Pocitos,Buen estado,25000.0
+1.0,1.0,1.0,40.0,Apartamento,Palermo,Excelente estado,24500.0
+3.0,4.0,0.0,110.0,Apartamento,Pocitos,Excelente estado,60000.0
+1.0,1.0,1.0,41.0,Apartamento,Pocitos,Excelente estado,38000.0
+3.0,3.0,2.0,195.0,Apartamento,Parque Miramar,A estrenar,104000.0
+1.0,2.0,0.0,40.0,Apartamento,Cerro,A estrenar,18500.0
+1.0,1.0,0.0,40.0,Apartamento,La Blanqueada,Buen estado,26000.0
+2.0,3.0,1.0,117.0,Casa,Carrasco Norte,A estrenar,94000.0
+1.0,1.0,0.0,60.0,Apartamento,Aguada,A estrenar,21500.0
+2.0,2.0,1.0,70.0,Apartamento,Villa Biarritz,Excelente estado,52000.0
+2.0,3.0,1.0,73.0,Apartamento,Punta Carretas,Excelente estado,48000.0
+3.0,2.0,1.0,80.0,Apartamento,Pocitos,Excelente estado,72000.0
+3.0,2.0,1.0,80.0,Apartamento,Pocitos,Excelente estado,100000.0
+2.0,3.0,0.0,70.0,Apartamento,Centro,Excelente estado,42000.0
+1.0,1.0,0.0,45.0,Apartamento,Tres Cruces,A estrenar,24500.0
+3.0,5.0,2.0,300.0,Casa,Punta Carretas,Excelente estado,132000.0
+1.0,1.0,0.0,55.0,Casa,Sayago,Excelente estado,19800.0
+3.0,3.0,2.0,120.0,Apartamento,Barra de Carrasco,Buen estado,88000.0
+3.0,3.0,1.0,120.0,Apartamento,Pocitos,Excelente estado,56000.0
+3.0,4.0,4.0,277.0,Casa,Carrasco,Buen estado,40000.0
+1.0,1.0,1.0,54.0,Apartamento,Pocitos,A estrenar,100000.0
+3.0,3.0,2.0,150.0,Casa,Carrasco Barrios con Seguridad,Excelente estado,36000.0
+2.0,2.0,1.0,83.0,Apartamento,Parque Miramar,Excelente estado,40000.0
+1.0,1.0,1.0,50.0,Apartamento,Parque Miramar,A estrenar,71600.0
+1.0,1.0,0.0,40.0,Apartamento,La Blanqueada,Buen estado,50000.0
+1.0,1.0,0.0,49.0,Apartamento,Pocitos Nuevo,Excelente estado,52000.0
+1.0,1.0,1.0,64.0,Apartamento,Punta Gorda,Buen estado,28000.0
+1.0,1.0,0.0,40.0,Apartamento,La Teja,Buen estado,34000.0
+3.0,4.0,1.0,128.0,Apartamento,Punta Carretas,Excelente estado,12500.0
+2.0,4.0,0.0,150.0,Casa,Punta Carretas,Buen estado,26000.0
+1.0,1.0,1.0,50.0,Apartamento,Punta Carretas,A estrenar,68000.0
+2.0,2.0,1.0,90.0,Apartamento,Punta Carretas,Excelente estado,35000.0
+3.0,4.0,1.0,140.0,Apartamento,Pocitos,Buen estado,80000.0
+1.0,2.0,1.0,57.0,Apartamento,Prado,Excelente estado,66000.0
+1.0,1.0,0.0,42.0,Apartamento,Punta Carretas,Excelente estado,16500.0
+1.0,1.0,1.0,30.0,Apartamento,Punta Carretas,Excelente estado,39000.0
+1.0,1.0,1.0,31.0,Apartamento,Pocitos,Excelente estado,39000.0
+1.0,3.0,0.0,77.0,Casa,Jacinto Vera,Excelente estado,39000.0
+1.0,3.0,0.0,77.0,Apartamento,Jacinto Vera,Excelente estado,34700.0
+1.0,2.0,0.0,56.0,Apartamento,Centro,Buen estado,34700.0
+1.0,2.0,0.0,50.0,Casa,Cerro,Buen estado,55000.0
+1.0,1.0,0.0,35.0,Apartamento,Malvín,Excelente estado,20000.0
+3.0,3.0,1.0,80.0,Apartamento,Pocitos,Buen estado,54000.0
+3.0,4.0,1.0,180.0,Apartamento,Pocitos,Excelente estado,48000.0
+1.0,2.0,1.0,78.0,Apartamento,Cordón,A estrenar,88000.0
+3.0,3.0,2.0,218.0,Apartamento,Punta Carretas,Excelente estado,37000.0
+1.0,1.0,1.0,57.0,Apartamento,Punta Carretas,A estrenar,132000.0
+3.0,3.0,3.0,161.0,Apartamento,Carrasco,Excelente estado,24000.0
+1.0,2.0,0.0,38.0,Apartamento,Peñarol Lavalleja,Buen estado,120000.0
+2.0,2.0,1.0,88.0,Apartamento,Puerto Buceo,Excelente estado,75000.0
+1.0,1.0,1.0,58.0,Apartamento,Puerto Buceo,Excelente estado,76000.0
+2.0,2.0,1.0,76.0,Apartamento,Pocitos,Buen estado,56000.0
+3.0,4.0,2.0,138.0,Apartamento,Carrasco,Buen estado,52000.0
+3.0,4.0,1.0,222.0,Apartamento,Punta Carretas,Buen estado,100000.0
+2.0,3.0,2.0,118.0,Casa,Prado,Buen estado,116000.0
+1.0,1.0,0.0,45.0,Apartamento,Bella Vista,Excelente estado,80000.0
+3.0,5.0,0.0,312.0,Casa,Solymar,Buen estado,21600.0
+1.0,1.0,0.0,45.0,Apartamento,Cordón,A estrenar,125000.0
+3.0,3.0,2.0,131.0,Apartamento,Barra de Carrasco,Excelente estado,70000.0
+3.0,3.0,2.0,119.0,Apartamento,Ciudad de la Costa,Buen estado,29000.0
+1.0,1.0,0.0,40.0,Apartamento,La Blanqueada,Excelente estado,104000.0
+1.0,1.0,0.0,50.0,Apartamento,Centro,Excelente estado,72000.0
+3.0,3.0,1.0,165.0,Casa,Carrasco,Buen estado,20000.0
+1.0,2.0,1.0,53.0,Casa,Prado,Excelente estado,20000.0
+3.0,4.0,0.0,230.0,Casa,Carrasco,Excelente estado,95000.0
+3.0,4.0,0.0,230.0,Casa,Parque Miramar,Excelente estado,26500.0
+1.0,1.0,1.0,70.0,Apartamento,La Blanqueada,Excelente estado,22000.0
+1.0,1.0,1.0,40.0,Apartamento,Centro,Excelente estado,18900.0
+1.0,1.0,1.0,70.0,Apartamento,La Blanqueada,Excelente estado,22000.0
+1.0,1.0,0.0,42.0,Apartamento,La Blanqueada,Excelente estado,18900.0
+1.0,1.0,0.0,40.0,Apartamento,Tres Cruces,Buen estado,24000.0
+1.0,1.0,1.0,45.0,Apartamento,Punta Gorda,A estrenar,20000.0
+1.0,2.0,0.0,68.0,Apartamento,Malvín,Excelente estado,29000.0
+1.0,1.0,0.0,60.0,Apartamento,Malvín,A estrenar,35000.0
+1.0,1.0,0.0,44.0,Apartamento,Centro,Excelente estado,29500.0
+1.0,1.0,1.0,48.0,Apartamento,Atahualpa,Excelente estado,28000.0
+2.0,2.0,0.0,63.0,Apartamento,Pocitos,Buen estado,42000.0
+3.0,3.0,2.0,182.0,Casa,Carrasco,Buen estado,29000.0
+1.0,1.0,0.0,50.0,Apartamento,Palermo,Buen estado,40000.0
+3.0,4.0,0.0,185.0,Casa,Carrasco,Buen estado,94000.0
+5.0,6.0,2.0,431.0,Casa,Pocitos,Buen estado,36000.0
+1.0,1.0,1.0,45.0,Apartamento,Punta Carretas,A estrenar,24500.0
+2.0,2.0,1.0,68.0,Apartamento,Malvín,Buen estado,24500.0
+1.0,1.0,0.0,40.0,Apartamento,Pocitos,Buen estado,35000.0
+1.0,1.0,0.0,44.0,Apartamento,Prado,Buen estado,88000.0
+2.0,3.0,0.0,197.0,Casa,Cantegril,Buen estado,36000.0
+2.0,2.0,1.0,94.0,Apartamento,Playa Mansa,Buen estado,88000.0
+2.0,2.0,0.0,95.0,Apartamento,Playa Mansa,Buen estado,28000.0
+1.0,2.0,1.0,69.0,Apartamento,Tres Cruces,Buen estado,100000.0
+1.0,1.0,1.0,43.0,Apartamento,Buceo,A estrenar,14500.0
+1.0,2.0,0.0,51.0,Apartamento,Malvín,A estrenar,27000.0
+1.0,2.0,0.0,80.0,Apartamento,Centro,Excelente estado,35000.0
+1.0,2.0,0.0,45.0,Apartamento,Tres Cruces,Excelente estado,30000.0
+1.0,1.0,0.0,40.0,Apartamento,Prado,A estrenar,27000.0
+1.0,1.0,0.0,5.0,Apartamento,Buceo,Excelente estado,27500.0
+1.0,1.0,1.0,69.0,Apartamento,Punta Carretas,Excelente estado,44900.0
+1.0,2.0,1.0,50.0,Apartamento,Cordón,A estrenar,23900.0
+3.0,3.0,2.0,200.0,Apartamento,Punta Carretas,Buen estado,23500.0
+1.0,2.0,1.0,65.0,Casa,Buceo,Buen estado,59600.0
+1.0,1.0,1.0,65.0,Apartamento,Punta Carretas,Excelente estado,32000.0
+1.0,1.0,2.0,50.0,Apartamento,Pocitos,Buen estado,132000.0
+2.0,2.0,1.0,76.0,Apartamento,Malvín,Excelente estado,38000.0
+3.0,3.0,3.0,310.0,Apartamento,Pocitos,Buen estado,59600.0
+2.0,3.0,1.0,100.0,Casa,Parque Miramar,A estrenar,42000.0
+1.0,1.0,0.0,43.0,Apartamento,Villa Biarritz,Buen estado,56000.0
+1.0,1.0,0.0,36.0,Apartamento,Malvín,Excelente estado,22000.0
+1.0,1.0,1.0,38.0,Apartamento,Malvín,Buen estado,22000.0
+1.0,1.0,1.0,40.0,Apartamento,Pocitos,Buen estado,20500.0
+1.0,1.0,0.0,35.0,Apartamento,Aguada,Buen estado,24000.0
+3.0,5.0,1.0,262.0,Casa,Punta Carretas,Buen estado,36000.0
+2.0,2.0,1.0,63.0,Apartamento,Prado,Buen estado,28000.0
+1.0,1.0,1.0,37.0,Apartamento,Malvín,A estrenar,23000.0
+3.0,3.0,2.0,220.0,Apartamento,Pocitos,Excelente estado,29000.0
+3.0,3.0,2.0,178.0,Casa,Huertas de los Horneros,A estrenar,27000.0
+2.0,3.0,1.0,160.0,Casa,El Pinar,Buen estado,60000.0
+3.0,4.0,2.0,300.0,Casa,Altos de La Tahona,Excelente estado,132000.0
+3.0,3.0,2.0,160.0,Casa,Huertas de los Horneros,A estrenar,70000.0
+1.0,2.0,0.0,60.0,Casa,Unión,Buen estado,60000.0
+2.0,3.0,1.0,145.0,Casa,Pinares,Excelente estado,88000.0
+2.0,2.0,0.0,120.0,Apartamento,Puerto Buceo,Buen estado,23500.0
+1.0,2.0,0.0,55.0,Apartamento,Tres Cruces,Excelente estado,76000.0
+3.0,5.0,1.0,250.0,Casa,Pocitos,Buen estado,20500.0
+2.0,2.0,1.0,125.0,Apartamento,Pocitos,Buen estado,27000.0
+3.0,4.0,0.0,155.0,Casa,Pinares,Buen estado,26000.0
+3.0,3.0,0.0,220.0,Casa,Playa Mansa,Buen estado,68000.0
+3.0,3.0,1.0,250.0,Casa,Playa Brava,Buen estado,25500.0
+1.0,1.0,0.0,75.0,Apartamento,Parque Rodó,Excelente estado,90000.0
+1.0,1.0,1.0,40.0,Apartamento,Malvín,Buen estado,56000.0
+1.0,2.0,1.0,50.0,Apartamento,Cordón,Excelente estado,44000.0
+1.0,1.0,0.0,65.0,Apartamento,Prado Nueva Savona,Buen estado,33000.0
+3.0,3.0,1.0,101.0,Apartamento,Villa Biarritz,Excelente estado,32000.0
+3.0,3.0,2.0,146.0,Apartamento,Carrasco,Excelente estado,28000.0
+2.0,2.0,0.0,95.0,Apartamento,Punta Carretas,Excelente estado,55000.0
+1.0,2.0,0.0,79.0,Apartamento,Prado,Buen estado,92000.0
+1.0,1.0,0.0,60.0,Casa,Pocitos,Excelente estado,80000.0
+1.0,1.0,0.0,60.0,Apartamento,Aguada,Buen estado,120000.0
+2.0,2.0,1.0,91.0,Apartamento,Pocitos,Excelente estado,24000.0
+3.0,3.0,2.0,240.0,Casa,Carrasco,Excelente estado,20500.0
+1.0,1.0,1.0,56.0,Apartamento,Carrasco,Excelente estado,60000.0
+3.0,3.0,2.0,133.0,Apartamento,Carrasco,A estrenar,19900.0
+3.0,4.0,3.0,400.0,Casa,Parque Miramar,Excelente estado,68000.0
+2.0,4.0,0.0,256.0,Casa,Carrasco,Excelente estado,70000.0
+1.0,1.0,0.0,42.0,Apartamento,Pocitos,Excelente estado,22400.0
+2.0,2.0,1.0,85.0,Apartamento,Pocitos,Buen estado,46900.0
+2.0,2.0,2.0,93.0,Apartamento,Punta Carretas,Excelente estado,42900.0
+1.0,1.0,0.0,40.0,Apartamento,Tres Cruces,Excelente estado,25900.0
+1.0,3.0,0.0,70.0,Casa,Tres Cruces,Excelente estado,43000.0
+2.0,3.0,1.0,121.0,Apartamento,Villa Biarritz,Excelente estado,23500.0
+1.0,2.0,1.0,80.0,Casa,Las Acacias,Buen estado,32000.0
+1.0,1.0,0.0,30.0,Apartamento,Pocitos,Reciclada,19200.0
+1.0,1.0,1.0,48.0,Apartamento,Ciudad Vieja,Excelente estado,80000.0
+1.0,1.0,1.0,4.0,Apartamento,Ciudad Vieja,Excelente estado,19000.0
+2.0,4.0,1.0,10.0,Apartamento,Ciudad Vieja,Excelente estado,35000.0
+2.0,4.0,1.0,107.0,Apartamento,Ciudad Vieja,Excelente estado,20500.0
+1.0,1.0,1.0,4.0,Apartamento,Ciudad Vieja,Excelente estado,40000.0
+2.0,2.0,1.0,92.0,Apartamento,Parque Miramar,A estrenar,54000.0
+1.0,1.0,0.0,40.0,Casa,La Comercial,Buen estado,55000.0
+1.0,1.0,0.0,65.0,Apartamento,Cordón,A estrenar,28500.0
+1.0,2.0,0.0,59.0,Apartamento,Prado,Excelente estado,50000.0
+3.0,4.0,1.0,189.0,Apartamento,Playa Mansa,A estrenar,64000.0
+1.0,1.0,0.0,25.0,Apartamento,Pocitos,A estrenar,32000.0
+3.0,3.0,2.0,138.0,Casa,Carrasco Norte,A estrenar,30000.0
+1.0,2.0,0.0,53.0,Apartamento,Sayago,Buen estado,18000.0
+3.0,5.0,0.0,400.0,Casa,Centro,Excelente estado,5500.0
+2.0,2.0,1.0,74.0,Apartamento,Pocitos,Excelente estado,14000.0
+2.0,2.0,0.0,80.0,Casa,Punta del Este,Buen estado,120000.0
+3.0,4.0,2.0,152.0,Apartamento,Punta Gorda,Buen estado,23000.0
+2.0,2.0,2.0,58.0,Casa,Maldonado,Buen estado,48000.0
+2.0,2.0,1.0,50.0,Apartamento,Roosevelt,Buen estado,17000.0
+1.0,3.0,1.0,140.0,Casa,Shangrilá,Excelente estado,21500.0
+2.0,3.0,1.0,120.0,Casa,Punta Carretas,Reciclada,20000.0
+2.0,3.0,1.0,90.0,Apartamento,Pocitos,Excelente estado,19500.0
+1.0,1.0,0.0,47.0,Apartamento,Buceo,A estrenar,60000.0
+2.0,3.0,0.0,120.0,Casa,Unión,Buen estado,64000.0
+1.0,1.0,0.0,54.0,Apartamento,Punta Carretas,Buen estado,57000.0
+1.0,1.0,0.0,45.0,Apartamento,Pocitos,Buen estado,46000.0
+1.0,1.0,1.0,53.0,Apartamento,Punta Carretas,Buen estado,28500.0
+1.0,1.0,1.0,57.0,Apartamento,Punta Carretas,Buen estado,64000.0
+2.0,2.0,2.0,75.0,Apartamento,Carrasco,Excelente estado,30000.0
+3.0,4.0,2.0,140.0,Apartamento,Carrasco,Buen estado,59600.0
+3.0,3.0,2.0,140.0,Apartamento,Carrasco,Buen estado,59600.0
+3.0,4.0,5.0,193.0,Casa,Ciudad de la Costa,Buen estado,35000.0
+1.0,1.0,0.0,60.0,Apartamento,Cordón,Buen estado,27200.0
+1.0,1.0,0.0,36.0,Apartamento,Palermo,Buen estado,88000.0
+1.0,1.0,0.0,40.0,Apartamento,Pocitos,Buen estado,18000.0
+2.0,3.0,1.0,160.0,Casa,Punta Gorda,Buen estado,22000.0
+3.0,5.0,1.0,250.0,Casa,Pocitos,Buen estado,24000.0
+3.0,2.0,1.0,120.0,Apartamento,Pocitos,Excelente estado,40000.0
+2.0,2.0,1.0,78.0,Apartamento,Carrasco,A estrenar,48000.0
+3.0,2.0,2.0,120.0,Apartamento,Carrasco,A estrenar,108000.0
+3.0,2.0,1.0,130.0,Apartamento,Golf,Excelente estado,68000.0
+3.0,3.0,1.0,230.0,Apartamento,Pocitos,Excelente estado,59600.0
+3.0,3.0,2.0,140.0,Apartamento,Puerto Buceo,Excelente estado,56000.0
+3.0,3.0,1.0,122.0,Apartamento,Punta Carretas,Excelente estado,112000.0
+3.0,3.0,2.0,250.0,Apartamento,Puerto Buceo,Excelente estado,64000.0
+3.0,3.0,1.0,144.0,Apartamento,Punta Carretas,Excelente estado,72000.0
+1.0,2.0,2.0,53.0,Apartamento,Unión,Buen estado,84000.0
+1.0,3.0,0.0,120.0,Casa,Las Toscas,Buen estado,78800.0
+1.0,2.0,0.0,81.0,Apartamento,Bella Vista,Excelente estado,28700.0
+1.0,1.0,0.0,36.0,Apartamento,Bella Vista,Excelente estado,45000.0
+1.0,1.0,0.0,40.0,Casa,Malvín Norte,Buen estado,30000.0
+1.0,2.0,0.0,65.0,Apartamento,Aguada,Excelente estado,25000.0
+3.0,3.0,2.0,213.0,Casa,La Blanqueada,Buen estado,26000.0
+2.0,2.0,0.0,65.0,Apartamento,Aguada,Buen estado,26900.0
+1.0,3.0,0.0,70.0,Casa,Lagomar,Buen estado,22400.0
+1.0,1.0,0.0,45.0,Apartamento,La Blanqueada,A estrenar,89500.0
+1.0,1.0,0.0,40.0,Apartamento,Brazo Oriental,Buen estado,22000.0
+1.0,2.0,0.0,59.0,Apartamento,La Blanqueada,Excelente estado,28000.0
+1.0,2.0,0.0,48.0,Apartamento,La Blanqueada,Reciclada,25000.0
+1.0,1.0,0.0,56.0,Apartamento,Puerto Buceo,Buen estado,26000.0
+3.0,3.0,3.0,220.0,Apartamento,Carrasco,Excelente estado,23900.0
+1.0,2.0,0.0,60.0,Apartamento,Punta Carretas,Buen estado,30000.0
+1.0,2.0,1.0,65.0,Apartamento,Cordón,Buen estado,60000.0
+1.0,1.0,0.0,40.0,Apartamento,Punta Carretas,Excelente estado,80000.0
+2.0,2.0,0.0,65.0,Apartamento,La Blanqueada,Buen estado,32000.0
+1.0,1.0,1.0,40.0,Apartamento,Pocitos,Buen estado,29000.0
+3.0,3.0,2.0,98.0,Apartamento,Carrasco,Buen estado,27000.0
+2.0,3.0,1.0,104.0,Apartamento,Malvín,Excelente estado,44000.0
+1.0,1.0,0.0,50.0,Apartamento,Punta Carretas,Excelente estado,23000.0
+1.0,1.0,0.0,45.0,Apartamento,Villa Muñoz,Buen estado,90000.0
+1.0,1.0,0.0,64.0,Apartamento,Punta Carretas,Buen estado,40000.0
+2.0,4.0,2.0,148.0,Casa,El Pinar,Buen estado,19000.0
+1.0,2.0,0.0,70.0,Apartamento,Palermo,Reciclada,13500.0
+1.0,1.0,1.0,32.0,Apartamento,Punta Carretas,Buen estado,44900.0
+2.0,2.0,1.0,90.0,Apartamento,Parque Miramar,Buen estado,25000.0
+1.0,1.0,1.0,44.0,Apartamento,La Blanqueada,A estrenar,26000.0
+1.0,2.0,0.0,60.0,Apartamento,Parque Batlle,Buen estado,19000.0
+1.0,2.0,1.0,60.0,Apartamento,Malvín,Buen estado,18000.0
+1.0,2.0,1.0,100.0,Casa,Piedras Blancas,Excelente estado,64000.0
+5.0,5.0,0.0,327.0,Casa,Pinares,Buen estado,29000.0
+3.0,3.0,2.0,119.0,Apartamento,Península,Buen estado,28000.0
+3.0,4.0,1.0,230.0,Casa,La Barra,Buen estado,30000.0
+3.0,2.0,0.0,120.0,Apartamento,Playa Mansa,Buen estado,29500.0
+1.0,1.0,1.0,38.0,Apartamento,Cordón,A estrenar,22500.0
+1.0,1.0,1.0,37.0,Apartamento,Tres Cruces,A estrenar,128000.0
+3.0,2.0,2.0,200.0,Apartamento,Puerto Buceo,Buen estado,68000.0
+1.0,1.0,0.0,56.0,Apartamento,Pocitos,Buen estado,19800.0
+1.0,2.0,1.0,65.0,Apartamento,Pocitos,Buen estado,25900.0
+1.0,2.0,1.0,60.0,Apartamento,Solymar,Buen estado,33000.0
+1.0,2.0,0.0,60.0,Apartamento,Cordón,Buen estado,21000.0
+1.0,2.0,0.0,57.0,Apartamento,Pocitos,Buen estado,18000.0
+1.0,2.0,0.0,60.0,Apartamento,Cordón,Excelente estado,24000.0
+1.0,2.0,0.0,60.0,Apartamento,Cordón,Excelente estado,24000.0
+1.0,1.0,0.0,40.0,Apartamento,Parque Rodó,Excelente estado,16000.0
+1.0,1.0,0.0,60.0,Apartamento,Punta Carretas,Excelente estado,21000.0
+1.0,1.0,0.0,44.0,Apartamento,Prado,A estrenar,26000.0
+1.0,2.0,0.0,48.0,Apartamento,La Blanqueada,A estrenar,26500.0
+1.0,1.0,0.0,42.0,Apartamento,Malvín,A estrenar,20000.0
+1.0,1.0,0.0,38.0,Apartamento,Malvín,Excelente estado,48000.0
+3.0,4.0,1.0,115.0,Apartamento,Punta Carretas,Excelente estado,20000.0
+3.0,3.0,0.0,75.0,Casa,Parque Rodó,Buen estado,29000.0
+1.0,1.0,0.0,45.0,Apartamento,Casavalle ,Buen estado,22000.0
+1.0,1.0,0.0,45.0,Apartamento,La Blanqueada,Buen estado,80000.0
+2.0,2.0,1.0,80.0,Apartamento,Punta Carretas,Excelente estado,13900.0
+2.0,3.0,2.0,450.0,Apartamento,Pocitos,Buen estado,13900.0
+1.0,1.0,0.0,60.0,Apartamento,Punta Carretas,Buen estado,39000.0
+1.0,1.0,0.0,40.0,Apartamento,La Blanqueada,Buen estado,9900.0
+2.0,4.0,0.0,77.0,Apartamento,Prado,Buen estado,23500.0
+1.0,2.0,0.0,55.0,Apartamento,Cordón,Buen estado,64000.0
+1.0,1.0,0.0,55.0,Apartamento,Centro,Excelente estado,120000.0
+1.0,1.0,0.0,43.0,Apartamento,Centro,Buen estado,36000.0
+1.0,1.0,0.0,42.0,Apartamento,Tres Cruces,Buen estado,15700.0
+1.0,1.0,1.0,53.0,Apartamento,Malvín,Buen estado,31000.0
+2.0,3.0,1.0,115.0,Apartamento,Punta Carretas,Buen estado,29000.0
+2.0,4.0,2.0,156.0,Casa,Carrasco,Buen estado,23800.0
+1.0,2.0,0.0,45.0,Apartamento,Ciudad Vieja,Buen estado,19900.0
+1.0,2.0,0.0,51.0,Apartamento,Aguada,A estrenar,26000.0
+1.0,1.0,0.0,38.0,Apartamento,Cordón,A estrenar,29500.0
+1.0,1.0,0.0,38.0,Apartamento,Cordón,A estrenar,65000.0
+2.0,2.0,1.0,102.0,Apartamento,Punta Carretas,Excelente estado,108000.0
+1.0,1.0,1.0,51.0,Apartamento,Pocitos Nuevo,Excelente estado,19500.0
+3.0,3.0,3.0,179.0,Apartamento,Parque Miramar,Excelente estado,27000.0
+2.0,3.0,0.0,91.0,Apartamento,Centro,Buen estado,25250.0
+1.0,2.0,0.0,57.0,Apartamento,Prado,A estrenar,100000.0
+1.0,2.0,0.0,60.0,Apartamento,Prado,A estrenar,28000.0
+1.0,1.0,0.0,39.0,Apartamento,Prado,A estrenar,120000.0
+1.0,1.0,0.0,56.0,Apartamento,Prado,A estrenar,45000.0
+1.0,1.0,0.0,40.0,Apartamento,Prado,A estrenar,23000.0
+2.0,2.0,1.0,83.0,Apartamento,Punta Carretas,Excelente estado,31000.0
+3.0,3.0,1.0,143.0,Apartamento,Punta Carretas,Excelente estado,35000.0
+3.0,2.0,1.0,80.0,Apartamento,Punta Carretas,Excelente estado,25600.0
+2.0,2.0,1.0,97.0,Apartamento,Haras del Lago,Excelente estado,26000.0
+1.0,1.0,0.0,34.0,Apartamento,Prado,Buen estado,24500.0
+1.0,2.0,1.0,65.0,Apartamento,Las Delicias,A estrenar,100000.0
+2.0,1.0,0.0,75.0,Apartamento,Buceo,Buen estado,120000.0
+3.0,3.0,1.0,144.0,Apartamento,Barrios Privados,Buen estado,88000.0
+3.0,3.0,1.0,130.0,Apartamento,Puerto Buceo,Buen estado,58000.0
+2.0,2.0,1.0,162.0,Apartamento,Playa Brava,Buen estado,24000.0
+1.0,1.0,0.0,36.0,Apartamento,Centro,A estrenar,3600.0
+1.0,2.0,0.0,45.0,Apartamento,Unión,Excelente estado,64500.0
+1.0,1.0,0.0,50.0,Apartamento,Punta Carretas,A estrenar,35000.0
+1.0,3.0,0.0,63.0,Apartamento,Punta Carretas,Buen estado,9000.0
+2.0,2.0,1.0,103.0,Apartamento,Pocitos,Excelente estado,38000.0
+2.0,2.0,1.0,69.0,Apartamento,Pocitos,Buen estado,45000.0
+2.0,2.0,1.0,46.0,Apartamento,Roosevelt,Buen estado,80000.0
+1.0,2.0,0.0,83.0,Casa,Pocitos,Buen estado,42000.0
+1.0,2.0,0.0,55.0,Apartamento,Reducto,Excelente estado,21000.0
+1.0,2.0,0.0,55.0,Apartamento,Tres Cruces,Buen estado,48000.0
+3.0,2.0,1.0,102.0,Apartamento,Punta Carretas,Excelente estado,22000.0
+1.0,5.0,0.0,300.0,Casa,La Paz (Uyco),Buen estado,12000.0
+1.0,2.0,0.0,90.0,Apartamento,Parque Batlle,Excelente estado,22950.0
+3.0,3.0,2.0,117.0,Apartamento,Parque Miramar,Buen estado,70000.0
+1.0,2.0,0.0,50.0,Apartamento,Buceo,Excelente estado,30000.0
+3.0,3.0,2.0,190.0,Apartamento,Villa Biarritz,Excelente estado,45000.0
+1.0,2.0,0.0,50.0,Apartamento,Ciudad Vieja,Buen estado,30000.0
+1.0,2.0,3.0,350.0,Casa,Colonia Nicolich,Buen estado,58000.0
+2.0,5.0,3.0,210.0,Casa,Ciudad de la Costa,Excelente estado,60000.0
+3.0,4.0,1.0,218.0,Casa,Punta Carretas,Excelente estado,85000.0
+1.0,3.0,1.0,150.0,Casa,Paso de los Toros,Sin Definir,230.0
+2.0,3.0,1.0,250.0,Casa,Salinas,Excelente estado,19500.0
+3.0,4.0,3.0,350.0,Casa,Solís,Buen estado,120000.0
+3.0,5.0,0.0,450.0,Casa,La Pedrera,Buen estado,30000.0
+3.0,2.0,2.0,123.0,Apartamento,Ciudad de la Costa,A estrenar,65000.0
+1.0,3.0,0.0,120.0,Casa,Durazno,Buen estado,25000.0
+2.0,5.0,0.0,238.0,Casa,Centro,Excelente estado,96000.0
+1.0,1.0,1.0,60.0,Casa,Sauce de Portezuelo,Reciclada,30000.0
+1.0,1.0,0.0,42.0,Casa,San José de Mayo,Buen estado,38000.0
+1.0,2.0,1.0,30.0,Casa,Guazuvirá,Excelente estado,88000.0
+3.0,5.0,3.0,406.0,Apartamento,Pocitos,Excelente estado,17000.0
+3.0,3.0,1.0,150.0,Apartamento,Pocitos,Excelente estado,9000.0
+2.0,5.0,1.0,300.0,Casa,Cerro,Buen estado,18000.0
+3.0,3.0,2.0,500.0,Casa,El Pinar,Excelente estado,24000.0
+3.0,4.0,1.0,140.0,Apartamento,Pocitos,Excelente estado,100000.0
+1.0,1.0,1.0,140.0,Casa,José Ignacio,Excelente estado,52000.0
+3.0,4.0,3.0,500.0,Casa,Carrasco,Excelente estado,118000.0
+1.0,1.0,1.0,653.0,Apartamento,Buceo,A estrenar,86000.0
+1.0,1.0,0.0,29.0,Apartamento,Punta Carretas,Buen estado,11600.0
+1.0,1.0,1.0,52.0,Apartamento,Malvín,Excelente estado,1000.0
+3.0,4.0,3.0,300.0,Casa,Carrasco,Excelente estado,106000.0
+3.0,3.0,2.0,190.0,Apartamento,Carrasco,Excelente estado,46400.0
+2.0,3.0,1.0,80.0,Apartamento,Punta Carretas,Excelente estado,32000.0
+2.0,2.0,0.0,100.0,Casa,Solymar,Buen estado,34000.0
+2.0,2.0,1.0,90.0,Apartamento,Punta del Este,Excelente estado,116000.0
+1.0,2.0,1.0,57.0,Apartamento,Cordón,Excelente estado,45000.0
+1.0,1.0,0.0,35.0,Apartamento,Aguada,Buen estado,7200.0
+3.0,5.0,1.0,240.0,Casa,Punta del Este,Buen estado,69000.0
+1.0,2.0,0.0,60.0,Casa,Aguas Dulces,Buen estado,36000.0
+2.0,2.0,0.0,95.0,Apartamento,Cordón,A estrenar,63000.0
+3.0,3.0,0.0,200.0,Casa,Carrasco,Excelente estado,23000.0
+1.0,1.0,1.0,56.0,Apartamento,Malvín,A estrenar,59000.0
+1.0,1.0,0.0,79.0,Apartamento,Aidy Grill,Buen estado,45000.0
+3.0,2.0,1.0,123.0,Apartamento,Carrasco Este,A estrenar,33000.0
+1.0,2.0,0.0,83.0,Apartamento,Piriápolis,Buen estado,1100.0
+1.0,2.0,1.0,63.0,Apartamento,Ciudad de la Costa,Buen estado,27000.0
+2.0,2.0,1.0,600.0,Casa,Edén Rock,Buen estado,31500.0
+1.0,3.0,2.0,130.0,Casa,San Jacinto,A reciclar,48000.0
+3.0,3.0,2.0,420.0,Apartamento,Playa Brava,Buen estado,4000.0
+3.0,5.0,1.0,583.0,Casa,Carrasco,Buen estado,45000.0
+3.0,5.0,3.0,520.0,Casa,Punta del Este,Excelente estado,25000.0
+2.0,5.0,0.0,190.0,Casa,Aguada,Reciclada,108000.0
+1.0,2.0,1.0,120.0,Casa,Barrio Córdoba,Excelente estado,2500.0
+2.0,2.0,2.0,86.0,Apartamento,Carrasco Norte,Excelente estado,16800.0
+1.0,1.0,0.0,55.0,Apartamento,Centro,Excelente estado,88600.0
+1.0,1.0,0.0,32.0,Apartamento,Pocitos,A estrenar,20000.0
+1.0,1.0,1.0,40.0,Apartamento,Pocitos,A estrenar,74000.0
+1.0,2.0,0.0,68.0,Casa,Parque del Plata Sur,A estrenar,22800.0
+2.0,2.0,2.0,92.0,Apartamento,Carrasco,A estrenar,28000.0
+3.0,4.0,2.0,341.0,Casa,Pocitos,Buen estado,23500.0
+1.0,3.0,0.0,110.0,Casa,Parque Batlle,Excelente estado,39000.0
+1.0,1.0,0.0,40.0,Apartamento,La Comercial,Excelente estado,40000.0
+2.0,3.0,1.0,110.0,Apartamento,Pocitos Nuevo,Excelente estado,55600.0
+2.0,2.0,1.0,65.0,Apartamento,Colón,Excelente estado,48000.0
+1.0,2.0,0.0,50.0,Apartamento,Tres Cruces,Excelente estado,21000.0
+1.0,1.0,1.0,46.0,Apartamento,Parque Batlle,Excelente estado,24000.0
+3.0,3.0,0.0,150.0,Casa,Carrasco,A estrenar,48000.0
+1.0,1.0,0.0,48.0,Apartamento,Piriápolis,Excelente estado,20000.0
+2.0,2.0,1.0,70.0,Apartamento,Centro,Buen estado,25000.0
+3.0,3.0,1.0,99.0,Apartamento,Punta del Este,Excelente estado,36400.0
+1.0,2.0,0.0,88.0,Casa,La Barra,A estrenar,30000.0
+1.0,1.0,1.0,60.0,Apartamento,La Barra,Buen estado,28000.0
+3.0,3.0,1.0,140.0,Apartamento,Punta Carretas,Excelente estado,22000.0
+3.0,4.0,3.0,240.0,Casa,Punta del Este,Excelente estado,50000.0
+2.0,1.0,0.0,340.0,Casa,Parque Batlle,Excelente estado,30000.0
+1.0,1.0,0.0,35.0,Apartamento,Tres Cruces,A estrenar,9300.0
+2.0,2.0,1.0,82.0,Apartamento,Pocitos,Excelente estado,36000.0
+2.0,3.0,1.0,110.0,Casa,Carrasco,Buen estado,12000.0
+3.0,2.0,2.0,120.0,Apartamento,Parque Miramar,A estrenar,22000.0
+3.0,3.0,1.0,90.0,Apartamento,Pocitos,Buen estado,65000.0
+3.0,4.0,4.0,671.0,Casa,Carrasco,Buen estado,24900.0
+2.0,3.0,1.0,80.0,Apartamento,Malvín,Excelente estado,26900.0
+3.0,5.0,0.0,200.0,Casa,Pocitos,Buen estado,35000.0
+1.0,2.0,1.0,73.0,Apartamento,Pocitos,Buen estado,100000.0
+3.0,3.0,2.0,144.0,Casa,Punta del Este,Excelente estado,39500.0
+2.0,3.0,2.0,230.0,Apartamento,Pocitos,Buen estado,40000.0
+2.0,3.0,2.0,250.0,Casa,Carrasco,Buen estado,46500.0
+2.0,3.0,0.0,88.0,Apartamento,Malvín,Excelente estado,64000.0
+1.0,1.0,0.0,37.0,Apartamento,Carrasco,Excelente estado,38000.0
+2.0,4.0,0.0,90.0,Apartamento,Colón,,80000.0
+3.0,4.0,1.0,220.0,Casa,Carrasco Este,Excelente estado,100000.0
+2.0,2.0,1.0,85.0,Apartamento,Punta del Este,Excelente estado,30000.0
+2.0,4.0,0.0,100.0,Casa,Pando,Buen estado,14000.0
+2.0,2.0,1.0,60.0,Apartamento,Punta del Este,A estrenar,46500.0
+2.0,2.0,1.0,60.0,Apartamento,Punta del Este,Excelente estado,35200.0
+3.0,4.0,2.0,238.0,Apartamento,Puerto Buceo,Excelente estado,23000.0
+2.0,3.0,1.0,94.0,Apartamento,Piriápolis,Buen estado,60000.0
+1.0,1.0,1.0,50.0,Apartamento,Punta del Este,Excelente estado,32000.0
+1.0,2.0,0.0,60.0,Apartamento,Jacinto Vera,Excelente estado,15000.0
+2.0,3.0,1.0,100.0,Apartamento,Punta del Este,Excelente estado,3584.0
+2.0,2.0,1.0,124.0,Apartamento,Punta Carretas,Excelente estado,50000.0
+2.0,2.0,1.0,73.0,Apartamento,Villa Biarritz,Excelente estado,38000.0
+2.0,2.0,1.0,90.0,Apartamento,Pocitos,Reciclada,60000.0
+3.0,3.0,2.0,100.0,Casa,Carrasco,A estrenar,31500.0
+2.0,3.0,1.0,90.0,Apartamento,Pocitos,Buen estado,8800.0
+1.0,4.0,0.0,100.0,Casa,Ciudad de la Costa,Reciclada,100000.0
+2.0,3.0,2.0,95.0,Casa,Pinares,Excelente estado,25000.0
+1.0,1.0,2.0,56.0,Apartamento,Punta Carretas,Buen estado,52000.0
+3.0,5.0,2.0,240.0,Casa,Pocitos,Buen estado,48000.0
+1.0,1.0,1.0,50.0,Apartamento,Punta Carretas,A estrenar,80000.0
+3.0,4.0,0.0,155.0,Casa,Punta del Este,Buen estado,56000.0
+1.0,1.0,0.0,52.0,Apartamento,Jardines del Hipódromo,Buen estado,45000.0
+3.0,4.0,2.0,280.0,Casa,Barrios Privados,A estrenar,7600.0
+3.0,3.0,1.0,200.0,Casa,Punta del Este,Buen estado,66000.0
+1.0,1.0,0.0,42.0,Apartamento,Villa Argentina,Excelente estado,132000.0
+3.0,5.0,0.0,400.0,Casa,Punta del Este,Excelente estado,33500.0
+1.0,1.0,1.0,40.0,Apartamento,Punta Carretas,Excelente estado,82000.0
+2.0,4.0,1.0,140.0,Apartamento,Villa Biarritz,Buen estado,14500.0
+2.0,4.0,1.0,160.0,Casa,Punta del Este,Excelente estado,36000.0
+3.0,4.0,2.0,450.0,Casa,Punta del Este,Buen estado,72000.0
+1.0,1.0,0.0,70.0,Casa,Neptunia,Excelente estado,26000.0
+1.0,1.0,0.0,43.0,Apartamento,Buceo,Reciclada,120000.0
+2.0,2.0,0.0,90.0,Apartamento,Pocitos,Buen estado,30000.0
+2.0,1.0,0.0,110.0,Casa,Villa Dolores,Buen estado,65000.0
+2.0,1.0,0.0,56.0,Apartamento,Punta Carretas,Excelente estado,120000.0
+1.0,2.0,0.0,49.0,Apartamento,Malvín Norte,Excelente estado,96000.0
+1.0,3.0,0.0,73.0,Apartamento,Punta Carretas,Buen estado,25000.0
+2.0,3.0,1.0,110.0,Casa,Playa Brava,Buen estado,22000.0
+3.0,3.0,1.0,140.0,Apartamento,Playa Mansa Pinares,Buen estado,28000.0
+2.0,2.0,1.0,140.0,Apartamento,Manantiales,Buen estado,33000.0
+1.0,1.0,0.0,1.0,Apartamento,Manantiales,Buen estado,18500.0
+1.0,1.0,0.0,40.0,Apartamento,Pocitos,Excelente estado,36000.0
+1.0,1.0,0.0,48.0,Apartamento,Ciudad Vieja,Buen estado,48000.0
+2.0,4.0,0.0,127.0,Casa,Haras del Lago,Buen estado,28000.0
+1.0,1.0,2.0,70.0,Casa,Punta del Este,Excelente estado,28000.0
+1.0,1.0,0.0,50.0,Apartamento,Ciudad Vieja,Sin Definir,1750.0
+1.0,1.0,0.0,55.0,Apartamento,Centro,Buen estado,72000.0
+1.0,3.0,1.0,80.0,Casa,Ciudad de la Costa,Excelente estado,38000.0
+3.0,3.0,1.0,120.0,Casa,Punta del Este,Excelente estado,26000.0
+1.0,3.0,0.0,70.0,Casa,Bella Vista,Excelente estado,8000.0
+1.0,1.0,1.0,35.0,Apartamento,Punta Carretas,Buen estado,26000.0
+3.0,4.0,2.0,270.0,Casa,Punta del Este,Excelente estado,27000.0
+1.0,1.0,0.0,70.0,Apartamento,Parque Batlle,A estrenar,4000.0
+1.0,2.0,1.0,42.0,Casa,San Jacinto,,68000.0
+1.0,2.0,1.0,40.0,Casa,Colonia Nicolich,Excelente estado,39000.0
+3.0,5.0,1.0,220.0,Casa,Pocitos,Buen estado,23500.0
+1.0,1.0,0.0,50.0,Apartamento,Capurro,Buen estado,29000.0
+1.0,2.0,0.0,55.0,Apartamento,La Blanqueada,Excelente estado,20500.0
+1.0,1.0,0.0,40.0,Apartamento,Centro,Excelente estado,32000.0
+2.0,5.0,1.0,180.0,Casa,Flor de Maroñas,Excelente estado,13000.0
+1.0,1.0,1.0,40.0,Apartamento,Belvedere,Reciclada,99000.0
+3.0,3.0,0.0,214.0,Casa,Carrasco,Buen estado,6980.0
+1.0,1.0,0.0,48.0,Apartamento,Pocitos,Excelente estado,25000.0
+3.0,3.0,2.0,260.0,Apartamento,Pocitos,Reciclada,25000.0
+3.0,4.0,0.0,350.0,Casa,Carrasco,Buen estado,15000.0
+3.0,3.0,1.0,120.0,Apartamento,Punta Carretas,Excelente estado,36000.0
+2.0,3.0,1.0,80.0,Apartamento,Punta Carretas,Buen estado,45000.0
+1.0,2.0,0.0,48.0,Apartamento,Cerro,Excelente estado,40000.0
+2.0,2.0,0.0,77.0,Apartamento,Puerto Buceo,Excelente estado,102000.0
+2.0,3.0,3.0,150.0,Casa,Punta del Este,Buen estado,50000.0
+2.0,3.0,2.0,100.0,Casa,Punta del Este,Excelente estado,72000.0
+1.0,1.0,1.0,37.0,Apartamento,Buceo,Excelente estado,60000.0
+1.0,1.0,0.0,41.0,Apartamento,Punta Carretas,Excelente estado,60000.0
+1.0,2.0,1.0,60.0,Apartamento,Cordón,Excelente estado,30000.0
+1.0,1.0,2.0,48.0,Apartamento,Cordón,Excelente estado,23000.0
+1.0,2.0,1.0,60.0,Casa,Pinamar,Excelente estado,28000.0
+3.0,3.0,1.0,106.0,Apartamento,Carrasco,Excelente estado,20000.0
+3.0,2.0,2.0,178.0,Apartamento,Playa Brava,Buen estado,34000.0
+1.0,2.0,1.0,77.0,Casa,Parque Miramar,A estrenar,23500.0
+1.0,2.0,0.0,95.0,Casa,Club del Lago,Buen estado,34000.0
+1.0,1.0,0.0,55.0,Casa,Club del Lago,Buen estado,24500.0
+1.0,1.0,1.0,79.0,Apartamento,Punta del Este,Excelente estado,125000.0
+1.0,2.0,0.0,50.0,Apartamento,Pocitos Nuevo,Excelente estado,96000.0
+3.0,4.0,1.0,215.0,Casa,Punta del Este,A estrenar,30000.0
+1.0,3.0,1.0,92.0,Casa,La Floresta,A estrenar,100000.0
+3.0,5.0,3.0,285.0,Casa,Carrasco,Buen estado,45000.0
+3.0,4.0,0.0,180.0,Casa,Punta del Este,Sin Definir,40000.0
+1.0,3.0,0.0,80.0,Casa,Buceo,Excelente estado,30000.0
+2.0,2.0,0.0,65.0,Apartamento,Pocitos,Excelente estado,32000.0
+1.0,3.0,1.0,75.0,Apartamento,Parque Miramar,A estrenar,116000.0
+1.0,2.0,0.0,60.0,Apartamento,La Blanqueada,Excelente estado,88000.0
+2.0,2.0,0.0,100.0,Apartamento,Centro,Excelente estado,25000.0
+2.0,2.0,1.0,58.0,Apartamento,Pocitos Nuevo,Buen estado,35000.0
+1.0,1.0,1.0,55.0,Apartamento,Malvín,A estrenar,38000.0
+1.0,2.0,0.0,65.0,Casa,Cerrito,Buen estado,46000.0
+1.0,3.0,0.0,70.0,Apartamento,Cordón,Reciclada,28000.0
+1.0,2.0,0.0,220.0,Casa,Centro,Excelente estado,29000.0
+1.0,1.0,1.0,48.0,Apartamento,Malvín,Excelente estado,33000.0
+1.0,2.0,0.0,50.0,Apartamento,Flor de Maroñas,Excelente estado,26000.0
+1.0,2.0,1.0,60.0,Apartamento,Malvín,Buen estado,23000.0
+1.0,2.0,1.0,56.0,Apartamento,Punta del Este,Excelente estado,39000.0
+2.0,3.0,1.0,93.0,Apartamento,Cordón,Buen estado,15000.0
+1.0,3.0,0.0,83.0,Casa,El Pinar,Buen estado,24000.0
+3.0,4.0,1.0,105.0,Apartamento,Pocitos,Excelente estado,33000.0
+3.0,3.0,0.0,106.0,Casa,Pocitos,Buen estado,35000.0
+1.0,3.0,0.0,90.0,Casa,Lagomar,Buen estado,23900.0
+1.0,2.0,0.0,55.0,Apartamento,Cerrito,Buen estado,40000.0
+1.0,1.0,0.0,43.0,Apartamento,La Blanqueada,A estrenar,26900.0
+2.0,2.0,2.0,130.0,Casa,Bolivar,Buen estado,100000.0
+1.0,2.0,1.0,60.0,Apartamento,Bolivar,Excelente estado,76000.0
+1.0,1.0,0.0,60.0,Apartamento,Unión,Excelente estado,50000.0
+2.0,3.0,0.0,200.0,Casa,La Floresta,Excelente estado,42000.0
+3.0,3.0,0.0,133.0,Casa,Punta del Este,Excelente estado,23500.0
+1.0,1.0,0.0,40.0,Apartamento,Bella Vista,Buen estado,38000.0
+1.0,1.0,1.0,40.0,Apartamento,Pocitos,Excelente estado,29000.0
+2.0,3.0,0.0,110.0,Apartamento,Centro,Excelente estado,15900.0
+1.0,1.0,0.0,50.0,Casa,Paso de la Arena,Buen estado,21000.0
+3.0,3.0,1.0,100.0,Apartamento,Puerto Buceo,Buen estado,30000.0
+1.0,2.0,1.0,50.0,Apartamento,Pocitos,Buen estado,75000.0
+1.0,2.0,0.0,65.0,Apartamento,Pocitos,Excelente estado,15000.0
+1.0,1.0,1.0,43.0,Apartamento,Pocitos,Buen estado,14000.0
+1.0,2.0,1.0,55.0,Apartamento,Malvín Norte,Buen estado,30000.0
+1.0,1.0,0.0,100.0,Apartamento,Centro,Reciclada,26500.0
+3.0,3.0,1.0,94.0,Apartamento,Pocitos Nuevo,Excelente estado,35000.0
+1.0,1.0,0.0,58.0,Apartamento,Pocitos,Buen estado,63600.0
+3.0,3.0,1.0,135.0,Apartamento,Punta Carretas,Excelente estado,40000.0
+3.0,2.0,0.0,110.0,Apartamento,Centro,Excelente estado,39200.0
+1.0,1.0,1.0,62.0,Apartamento,Punta Carretas,Buen estado,16000.0
+3.0,4.0,1.0,340.0,Casa,Atlántida Sur,Excelente estado,43200.0
+3.0,4.0,0.0,173.0,Casa,Barrio Córdoba,Buen estado,32000.0
+3.0,3.0,1.0,126.0,Apartamento,Lagomar,Buen estado,24000.0
+1.0,3.0,0.0,90.0,Casa,Atlántida Sur,Excelente estado,29900.0
+1.0,1.0,1.0,100.0,Casa,Punta del Este,Excelente estado,96000.0
+1.0,2.0,0.0,60.0,Apartamento,Prado,Excelente estado,48000.0
+3.0,4.0,0.0,200.0,Casa,Punta Colorada,Excelente estado,21000.0
+2.0,5.0,2.0,260.0,Casa,Pocitos,Buen estado,96000.0
+1.0,2.0,0.0,60.0,Apartamento,Malvín,Buen estado,92000.0
+1.0,1.0,0.0,55.0,Apartamento,Ciudad Vieja,Reciclada,28000.0
+3.0,3.0,1.0,110.0,Apartamento,Punta Carretas,Excelente estado,19000.0
+1.0,1.0,1.0,45.0,Apartamento,Centro,Reciclada,68000.0
+2.0,2.0,1.0,50.0,Apartamento,Punta del Este,Buen estado,16500.0
+1.0,1.0,1.0,30.0,Apartamento,Pocitos Nuevo,A estrenar,132000.0
+1.0,1.0,0.0,40.0,Apartamento,Centro,,26500.0
+2.0,3.0,0.0,95.0,Apartamento,Centro,Excelente estado,88000.0
+2.0,2.0,1.0,70.0,Apartamento,Pocitos,Excelente estado,2800.0
+1.0,2.0,0.0,67.0,Apartamento,Cordón,Excelente estado,2800.0
+3.0,4.0,0.0,200.0,Casa,La Paloma,Excelente estado,31000.0
+1.0,1.0,1.0,56.0,Apartamento,Tres Cruces,,21500.0
+2.0,2.0,1.0,75.0,Casa,Piriápolis,Reciclada,37000.0
+1.0,1.0,0.0,45.0,Apartamento,Pocitos Nuevo,Sin Definir,18500.0
+3.0,3.0,3.0,350.0,Casa,Piriápolis,Excelente estado,32500.0
+1.0,1.0,0.0,37.0,Apartamento,Malvín,Excelente estado,38000.0
+1.0,3.0,0.0,70.0,Apartamento,Aguada,Excelente estado,30000.0
+1.0,3.0,0.0,70.0,Apartamento,Unión,Buen estado,450.0
+2.0,2.0,1.0,75.0,Apartamento,Pocitos,Reciclada,3800.0
+3.0,4.0,1.0,115.0,Apartamento,Pocitos,Buen estado,27000.0
+1.0,1.0,0.0,36.0,Apartamento,Pocitos,Buen estado,22000.0
+2.0,2.0,1.0,80.0,Apartamento,Carrasco Barrios con Seguridad,Buen estado,28900.0
+2.0,3.0,3.0,254.0,Casa,Carrasco Norte,Excelente estado,35000.0
+3.0,3.0,3.0,150.0,Casa,Mirador de La Tahona,Excelente estado,19500.0
+1.0,1.0,1.0,45.0,Apartamento,Punta del Este,Excelente estado,20500.0
+2.0,2.0,0.0,109.0,Apartamento,Malvín,A estrenar,27000.0
+1.0,1.0,0.0,50.0,Casa,Malvín,A estrenar,12000.0
+1.0,1.0,1.0,45.0,Apartamento,Carrasco Norte,A estrenar,53300.0
+2.0,2.0,1.0,70.0,Apartamento,Pocitos,Buen estado,120000.0
+1.0,1.0,0.0,100.0,Apartamento,Piriápolis,Excelente estado,30000.0
+1.0,2.0,0.0,68.0,Casa,Sayago,Sin Definir,33000.0
+1.0,2.0,0.0,70.0,Apartamento,Ciudad Vieja,Reciclada,28000.0
+1.0,3.0,1.0,70.0,Casa,Unión,Reciclada,62000.0
+1.0,1.0,1.0,35.0,Apartamento,Punta del Este,Buen estado,33500.0
+2.0,1.0,0.0,64.0,Casa,Aguada,Excelente estado,48000.0
+1.0,1.0,0.0,42.0,Apartamento,La Blanqueada,Buen estado,12000.0
+1.0,1.0,0.0,40.0,Apartamento,Punta Carretas,Buen estado,30000.0
+1.0,1.0,0.0,45.0,Apartamento,Cordón,A estrenar,19900.0
+1.0,2.0,1.0,75.0,Casa,Neptunia,Sin Definir,22000.0
+1.0,1.0,0.0,39.0,Apartamento,Malvín,A estrenar,23000.0
+1.0,2.0,1.0,50.0,Apartamento,Punta del Este,Excelente estado,19000.0
+1.0,1.0,0.0,40.0,Apartamento,Parque Rodó,Buen estado,17000.0
+2.0,2.0,1.0,68.0,Apartamento,Punta del Este,Excelente estado,22000.0
+1.0,2.0,0.0,55.0,Apartamento,Parque Rodó,Excelente estado,19000.0
+1.0,2.0,0.0,50.0,Apartamento,Aidy Grill,Excelente estado,26500.0
+1.0,2.0,0.0,55.0,Apartamento,Punta del Este,Excelente estado,23500.0
+1.0,2.0,0.0,60.0,Apartamento,Centro,Excelente estado,22000.0
+1.0,1.0,0.0,45.0,Apartamento,Unión,Excelente estado,23000.0
+1.0,2.0,0.0,58.0,Apartamento,Prado,Buen estado,32000.0
+1.0,2.0,1.0,50.0,Apartamento,Malvín,A estrenar,20500.0
+1.0,1.0,1.0,45.0,Apartamento,Malvín,A estrenar,50000.0
+1.0,1.0,0.0,48.0,Apartamento,Centro,Buen estado,32000.0
+1.0,1.0,0.0,42.0,Apartamento,Cordón,Reciclada,34000.0
+1.0,3.0,0.0,60.0,Apartamento,Sayago,Excelente estado,19000.0
+1.0,3.0,0.0,64.0,Apartamento,Villa Española,Buen estado,23000.0
+1.0,3.0,0.0,140.0,Casa,Parque Batlle,Buen estado,32500.0
+1.0,1.0,0.0,45.0,Apartamento,Cordón,Excelente estado,26000.0
+1.0,2.0,0.0,70.0,Apartamento,La Blanqueada,Excelente estado,19900.0
+1.0,1.0,0.0,50.0,Apartamento,Aguada,A estrenar,16500.0
+1.0,1.0,1.0,45.0,Apartamento,Belvedere,Excelente estado,19800.0
+1.0,1.0,1.0,35.0,Apartamento,Palermo,A estrenar,27500.0
+1.0,1.0,1.0,65.0,Casa,Shangrilá,Excelente estado,52000.0
+1.0,1.0,0.0,30.0,Apartamento,Malvín,Excelente estado,25000.0
+1.0,1.0,1.0,190.0,Casa,Lagomar,Buen estado,24000.0
+1.0,1.0,1.0,46.0,Apartamento,Pocitos,A estrenar,20400.0
+1.0,1.0,0.0,40.0,Apartamento,Malvín,A estrenar,55000.0
+2.0,2.0,0.0,74.0,Apartamento,Centro,Buen estado,15500.0
+1.0,2.0,1.0,54.0,Apartamento,Centro,Buen estado,21500.0
+2.0,3.0,0.0,77.0,Apartamento,Bella Vista,Buen estado,24000.0
+2.0,2.0,1.0,85.0,Apartamento,Punta del Este,Excelente estado,25000.0
+2.0,2.0,1.0,75.0,Apartamento,Punta del Este,Excelente estado,23000.0
+2.0,2.0,1.0,75.0,Apartamento,Punta del Este,Excelente estado,30000.0
+1.0,1.0,0.0,55.0,Apartamento,Pocitos,Excelente estado,25000.0
+3.0,3.0,3.0,226.0,Apartamento,Punta Carretas,Excelente estado,26000.0
+3.0,4.0,3.0,345.0,Apartamento,Pocitos Nuevo,Excelente estado,32000.0
+2.0,2.0,1.0,65.0,Apartamento,Pocitos,Excelente estado,60000.0
+1.0,4.0,0.0,170.0,Apartamento,Centro,Excelente estado,60000.0
+1.0,1.0,0.0,60.0,Apartamento,Centro,Excelente estado,26000.0
+1.0,1.0,0.0,35.0,Apartamento,Cordón,Excelente estado,24000.0
+2.0,2.0,1.0,90.0,Apartamento,Golf,Excelente estado,38000.0
+2.0,2.0,1.0,90.0,Apartamento,Punta Carretas,Excelente estado,116000.0
+1.0,1.0,1.0,50.0,Apartamento,Buceo,Excelente estado,52000.0
+1.0,1.0,0.0,29.0,Apartamento,Piedras Blancas,Buen estado,35000.0
+3.0,5.0,0.0,450.0,Casa,Carrasco,Buen estado,23000.0
+1.0,2.0,0.0,65.0,Apartamento,Aguada,Buen estado,50000.0
+1.0,2.0,0.0,60.0,Apartamento,La Teja,Buen estado,49000.0
+3.0,3.0,0.0,75.0,Casa,Parque Rodó,Buen estado,56000.0
+2.0,2.0,1.0,84.0,Apartamento,Malvín,Excelente estado,52000.0
+1.0,1.0,0.0,35.0,Apartamento,Prado,Buen estado,35000.0
+1.0,1.0,0.0,45.0,Apartamento,La Blanqueada,Buen estado,9500.0
+1.0,2.0,0.0,50.0,Apartamento,Prado,Buen estado,26000.0
+2.0,2.0,1.0,60.0,Apartamento,Punta del Este,Buen estado,18900.0
+2.0,2.0,0.0,80.0,Apartamento,Aidy Grill,Buen estado,15900.0
+2.0,3.0,2.0,90.0,Apartamento,Centro,Buen estado,39000.0
+2.0,3.0,0.0,82.0,Apartamento,Ciudad Vieja,Buen estado,15500.0
+3.0,3.0,2.0,139.0,Apartamento,Carrasco,Excelente estado,24000.0
+2.0,2.0,2.0,136.0,Apartamento,Carrasco,Excelente estado,30000.0
+3.0,3.0,2.0,152.0,Apartamento,Punta Gorda,Excelente estado,35000.0
+3.0,3.0,2.0,160.0,Casa,Carrasco,Excelente estado,32000.0
+1.0,1.0,0.0,55.0,Apartamento,Cordón,Buen estado,17000.0
+1.0,1.0,0.0,50.0,Apartamento,Bella Vista,Excelente estado,47000.0
+1.0,1.0,0.0,30.0,Apartamento,Centro,Buen estado,17000.0
+3.0,3.0,1.0,110.0,Casa,El Pinar,A estrenar,86000.0
+2.0,2.0,1.0,75.0,Apartamento,Malvín,Excelente estado,88000.0
+1.0,1.0,1.0,33.0,Apartamento,Cordón,Buen estado,20000.0
+2.0,2.0,0.0,55.0,Apartamento,Cordón,Buen estado,21900.0
+1.0,2.0,0.0,46.0,Apartamento,Centro,Excelente estado,29500.0
+3.0,3.0,3.0,167.0,Apartamento,Carrasco,Excelente estado,43000.0
+3.0,3.0,2.0,134.0,Casa,Parque Miramar,Excelente estado,14000.0
+3.0,4.0,1.0,267.0,Casa,Pocitos,Excelente estado,23000.0
+2.0,2.0,1.0,60.0,Apartamento,Pocitos,Buen estado,18000.0
+2.0,3.0,1.0,75.0,Apartamento,Pocitos,Buen estado,23000.0
+1.0,1.0,1.0,40.0,Apartamento,Punta Carretas,Buen estado,24700.0
+1.0,1.0,0.0,50.0,Apartamento,Pocitos,Buen estado,59000.0
+1.0,3.0,0.0,65.0,Apartamento,Perez Castellanos,Buen estado,22000.0
+1.0,3.0,0.0,60.0,Apartamento,Centro,Buen estado,26000.0
+1.0,3.0,0.0,60.0,Apartamento,La Blanqueada,Excelente estado,112000.0
